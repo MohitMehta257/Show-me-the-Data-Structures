@@ -1,0 +1,1 @@
+Firstly, i've check the name of the group whether it is same as the user and then i've checked with the user list in that list.And then i've checked the user in its child group. And at any point if we found the user it returns true or else false
