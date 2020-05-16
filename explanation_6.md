@@ -1,0 +1,1 @@
+I've taken the nodes value of both the linked lists and stored it in the separated lists. And i've created the union and intersection lists of the both the linked lists values and return it after removing the duplicates and sorting it.
